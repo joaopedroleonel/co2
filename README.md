@@ -15,7 +15,7 @@
 <br>
 <img src="/Imagens/imgfunciona.png">
 <br>
-Primeiro o sensor de carbono MQ-7 coleta as medidas do ar e logo após manda para o arduino que as armazena e distribui para os leds que mostram o nível de perigo, distribui para o lcd que exibe o número registrado e também as manda para a web por meio da serial port, esses dados são tratados e exibidos no gráfico
+O sensor de carbono MQ-7 coleta as medidas de Carbono do ar e transmite os dados para um Arduino, que os armazena e os distribui para os LEDs para exibir visualmente o nível de perigo, o LCD exibe as leituras numéricas, e os dados são transmitidos para a web via porta serial, onde são tratados e exibidos em um gráfico para monitoramento e análise.
 <br>
 <br>
 <h1> 🛠 Tecnologias</h1>
