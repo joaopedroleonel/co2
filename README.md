@@ -13,10 +13,15 @@
 As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 - HTML
+<br>
 - CSS
+<br>
 - Javascript
+<br>
 - Bootstrap
+<br>
 - Google charts API
+<br>
 - SerialPort API
 <br>
 <br>
