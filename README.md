@@ -44,15 +44,15 @@ As seguintes pessoas contribuiram para construção do projeto:
 <br>
 - João Pedro Silva: Construção a Caixa de metal para se armazenar os componentes
 <br>
-- Ana Clara: Criação do cartaz e roteiro de apresentação
+- Ana Clara: Criação do cartaz e roteiro da apresentação
 <br>
-- Helena: Criação do cartaz e roteiro de apresentação
+- Helena: Criação do cartaz e roteiro da apresentação
 <br>
-- Larissa: Criação do cartaz e roteiro de apresentação
+- Larissa: Criação do cartaz e roteiro da apresentação
 <br>
-- Alya: Criação do cartaz e roteiro de apresentação
+- Alya: Criação do cartaz e roteiro da apresentação
 <br>
-- Camila: Criação do cartaz e roteiro de apresentação
+- Camila: Criação do cartaz e roteiro da apresentação
 <br>
 <br>
 todos os integrantes participaram da apresentação
