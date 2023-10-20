@@ -20,14 +20,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - SerialPort API
 <br>
 <br>
-### Pré-requisitos
+## Pré-requisitos
 Antes de utilizar o sistema, você vai precisar se seu navegador suporta a leitura da serial port, abaixo se encontra a lista dos navegadores suportados:
 <br>
 <br>
 Chorme(PC), Edge e Opera
 <br>
 <br>
-### Contribuições
+## Contribuições
 <br>
 <br>
 As seguintes pessoas contribuiram para construção do projeto:
