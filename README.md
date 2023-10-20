@@ -1,3 +1,6 @@
+<img src="lv_0_20231020075711.gif">
+<br>
+
 # Sistema de Qualidade de Ar
 ## O sistema é capaz de medir a quantidade de CO2 presente no local
 <br>
