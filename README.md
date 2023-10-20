@@ -13,7 +13,7 @@ O objetivo do nosso projeto é ajudar na preservação ambiental por meio das in
 Primeiro o sensor de carbono MQ-7 coleta as medidas do ar e logo apos manda para o arduino que as print e distribui para os leds que mostram o nivel de perigo e para a web por meio da serial port e esses dados são mandados para o grafico
 <br>
 <br>
-<h1> 🛠 Tecnologias<h1>
+<h1> 🛠 Tecnologias</h1>
 <br>
 <br>
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -31,14 +31,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - SerialPort API
 <br>
 <br>
-## Pré-requisitos
+<h1>Pré-requisitos</h1>
 Antes de utilizar o sistema, você vai precisar se seu navegador suporta a leitura da serial port, abaixo se encontra a lista dos navegadores suportados:
 <br>
 <br>
 Chorme(PC), Edge e Opera
 <br>
 <br>
-## Contribuições
+<h1> Contribuições </h1>
 <br>
 <br>
 As seguintes pessoas contribuiram para construção do projeto:
