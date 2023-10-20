@@ -47,7 +47,6 @@ Chorme(PC), Edge e Opera
 <br>
 <h1> Contribuições </h1>
 <br>
-<br>
 As seguintes pessoas contribuiram para construção do projeto:
 <br>
 <br>
