@@ -4,7 +4,7 @@
 
 <h1>Objetivo </h1>
 <br>
-O objetivo do nosso projeto é ajudar na preservação ambiental por meio das informações contidas no sistema
+<p>O objetivo do nosso projeto é ajudar na preservação ambiental por meio das informações contidas no sistema</p>
 <br>
 <br>
 
