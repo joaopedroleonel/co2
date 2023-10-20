@@ -7,6 +7,8 @@
 O objetivo do nosso projeto é ajudar na preservação ambiental por meio das informações contidas no sistema
 <br>
 <br>
+
+
 ##Roadmap 
 <br>
 Primeiro o sensor de carbono MQ-7 coleta as medidas do ar e logo apos manda para o arduino que as print e distribui para os leds que mostram o nivel de perigo e para a web por meio da serial port e esses dados são mandados para o grafico
