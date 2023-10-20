@@ -34,12 +34,19 @@ As seguintes pessoas contribuiram para construção do projeto:
 <br>
 <br>
 - João Pedro Segatto: desenvolveu a pagina web e a apresentação 3D
+<br>
 - Breno Reus: desenvolveu o arduino e construiu o circuito
+<br>
 - João Pedro Silva: Construção a Caixa de metal para se armazenar os componentes
+<br>
 - Ana Clara: Criação do cartaz e roteiro de apresentação
+<br>
 - Helena: Criação do cartaz e roteiro de apresentação
+<br>
 - Larissa: Criação do cartaz e roteiro de apresentação
+<br>
 - Alya: Criação do cartaz e roteiro de apresentação
+<br>
 - Camila: Criação do cartaz e roteiro de apresentação
 <br>
 <br>
