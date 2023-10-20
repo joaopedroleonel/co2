@@ -11,7 +11,7 @@
 <br>
 <br>
 As seguintes ferramentas foram usadas na construção do projeto:
-
+<br>
 - HTML
 - CSS
 - Javascript
