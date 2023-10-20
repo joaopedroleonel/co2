@@ -1,4 +1,4 @@
-<img src="lv_0_20231020075711.gif">
+<img src="/Imagens/lv_0_20231020075711.gif">
 <br>
 
 # Sistema de Qualidade de Ar
