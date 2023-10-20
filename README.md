@@ -2,7 +2,7 @@
 ## O sistema é capaz de medir a quantidade de CO2 presente no local
 <br>
 
-<h1>Objetivo <h1>
+<h1>Objetivo </h1>
 <br>
 O objetivo do nosso projeto é ajudar na preservação ambiental por meio das informações contidas no sistema
 <br>
@@ -69,4 +69,4 @@ todos os integrantes participaram da apresentação
 </h4>
 <br>
 <br>
-<a href="#autor">Autor</a> João Pedro Segatto
+Autor: João Pedro Segatto
