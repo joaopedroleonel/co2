@@ -10,7 +10,7 @@
 
 <h1>Roadmap </h1>
 <br>
-Primeiro o sensor de carbono MQ-7 coleta as medidas do ar e logo após manda para o arduino que as print e distribui para os leds que mostram o nível de perigo e Também as manda para a web por meio da serial port e esses dados são tratados e mandados para o gráfico
+Primeiro o sensor de carbono MQ-7 coleta as medidas do ar e logo após manda para o arduino que as print e distribui para os leds que mostram o nível de perigo e também as manda para a web por meio da serial port e esses dados são tratados e mandados para o gráfico
 <br>
 <br>
 <h1> 🛠 Tecnologias</h1>
