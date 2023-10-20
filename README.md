@@ -33,7 +33,7 @@ As seguintes ferramentas foram usadas na construção do site web:
 <br>
 As seguintes ferramentas foram usadas no desenvolvimento do arduino:
 <br>
-- C
+- C++
 <br>
 - LiquidCrystal
 <br>
