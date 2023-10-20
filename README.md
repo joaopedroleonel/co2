@@ -13,6 +13,8 @@
 
 <h1>Como funciona?</h1>
 <br>
+<img src="/Imagens/imgfunciona.png">
+<br>
 Primeiro o sensor de carbono MQ-7 coleta as medidas do ar e logo após manda para o arduino que as armazena e distribui para os leds que mostram o nível de perigo, distribui para o lcd que exibe o número registrado e também as manda para a web por meio da serial port, esses dados são tratados e exibidos no gráfico
 <br>
 <br>
