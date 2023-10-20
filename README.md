@@ -55,9 +55,9 @@ Chorme(PC), Edge e Opera
 As seguintes pessoas contribuiram para construção do projeto:
 <br>
 <br>
-- João Pedro Segatto: desenvolveu a pagina web e a apresentação 3D
+- João Pedro Segatto: Desenvolveu a pagina web e a apresentação 3D
 <br>
-- Breno Reus: desenvolveu o arduino e construiu o circuito
+- Breno Reus: Desenvolveu o arduino e construiu o circuito
 <br>
 - João Pedro Silva: Construção a Caixa de metal para se armazenar os componentes
 <br>
@@ -83,3 +83,4 @@ todos os integrantes participaram da apresentação
 <br>
 <br>
 Autor: João Pedro Segatto
+<br>
