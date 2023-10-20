@@ -2,8 +2,13 @@
 ## O sistema é capaz de medir a quantidade de CO2 presente no local
 <br>
 <p align="center">
- <a href="#objetivo">Objetivo</a> O objetivo do nosso projeto é ajudar na preservação ambiental por meio das informações contidas no sistema
-  <a href="#roadmap">Roadmap</a> Primeiro o sensor de carbono MQ-7 coleta as medidas do ar e logo apos manda para o arduino que as print e distribui para os leds que mostram o nivel de perigo e para a web por meio da serial port e esses dados são mandados para o grafico
+## Objetivo 
+<br>
+<br>
+O objetivo do nosso projeto é ajudar na preservação ambiental por meio das informações contidas no sistema
+<br>
+<br>
+<a href="#roadmap">Roadmap</a> Primeiro o sensor de carbono MQ-7 coleta as medidas do ar e logo apos manda para o arduino que as print e distribui para os leds que mostram o nivel de perigo e para a web por meio da serial port e esses dados são mandados para o grafico
 </p>
 <br>
 <br>
