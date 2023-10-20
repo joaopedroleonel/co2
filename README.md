@@ -67,6 +67,8 @@ As seguintes pessoas contribuiram para construção do projeto:
 <br>
 - Camila: Criação do cartaz e roteiro da apresentação
 <br>
+- Pedro: Equipamentos usados na apresentação
+<br>
 <br>
 todos os integrantes participaram da apresentação
 <br>
