@@ -3,7 +3,7 @@ google.charts.setOnLoadCallback(drawBasic);
 var data = new Date();
 
 let receivedData = '';
-let nova = 0;
+let Dia = 0;
 let dataTable = null;
 
 function delay(ms) {
@@ -30,12 +30,12 @@ document.addEventListener('DOMContentLoaded', function() {
         receivedData += receivedString;
 
         if (receivedData.endsWith('\n')) {
-          nova = parseFloat(receivedData);
-          let nova2 = nova;
+          Dia = parseFloat(receivedData);
+          let DiaAtulizado = Dia;
           receivedData = '';
           await delay(500);
 
-          const newData = [new Date(), parseFloat(nova2)]; 
+          const newData = [new Date(), parseFloat(DiaAtulizado)]; 
 
           if (dataTable) {
             dataTable.addRow(newData); 
