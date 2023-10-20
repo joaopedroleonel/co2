@@ -16,7 +16,7 @@ Primeiro o sensor de carbono MQ-7 coleta as medidas do ar e logo após manda par
 <h1> 🛠 Tecnologias</h1>
 <br>
 <br>
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas foram usadas na construção do site web:
 <br>
 - HTML
 <br>
@@ -29,6 +29,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Google charts API
 <br>
 - SerialPort API
+<br>
+<br>
+As seguintes ferramentas foram usadas no desenvolvimento do arduino:
+<br>
+- C
+<br>
+- LiquidCrystal
 <br>
 <br>
 <h1>Pré-requisitos</h1>
