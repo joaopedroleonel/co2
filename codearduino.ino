@@ -11,7 +11,8 @@ void setup()
 {
   configureLCD();
   setupPins();
-
+  Serial.begin(9600);
+  
   tone(12, 1000, 100);
   delay(200);
   tone(12, 1000, 100);
@@ -22,7 +23,8 @@ void loop()
   delay(1000);
   lcd.clear();
   lcd.setCursor(5, 0);
-  lcd.print(getSensorData());
+  lcd.print(getSensorData())
+  Serial.print(getSensorData());
 
   if(getSensorData() <= 36.0)
   {
