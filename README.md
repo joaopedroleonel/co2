@@ -74,7 +74,7 @@ As seguintes pessoas contribuiram para construção do projeto:
 - Pedro: Equipamentos usados na apresentação
 <br>
 <br>
-todos os integrantes participaram da apresentação
+Todos os integrantes participaram da apresentação.
 <br>
 <br>
 <h4 align="center"> 
